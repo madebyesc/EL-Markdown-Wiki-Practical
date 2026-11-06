@@ -1,6 +1,6 @@
 # EL Markdown and GitHub Wiki Practical
 
-A practical project demonstrating Markdown formatting, GitHub repository management, and Wiki documentation.[cite: 1]
+A practical project demonstrating Markdown formatting, GitHub repository management, and Wiki documentation.
 
 ## Features
 
@@ -8,12 +8,13 @@ A practical project demonstrating Markdown formatting, GitHub repository managem
 - Bold and italic text
 - Code examples
 - Links and lists
-- Task lists[cite: 1]
+- Task lists
 - GitHub Wiki documentation
 - Code of Conduct
 
-## Installation[
+## Installation
 
 Clone this repository:
 
 ```bash
+git clone [https://github.com/madebyesc/EL-Markdown-Wiki-Practical.git](https://github.com/madebyesc/EL-Markdown-Wiki-Practical.git)
